@@ -1,0 +1,15 @@
+XMRIG Version 6.8.1 on debian.
+
+For Use :
+
+-a : Algorithm (Cryptonight,...) -o : Pool -t : Threads -u : User
+
+For use this : -a 'algorithm' -o 'pool' - u 'Your wallet' -t 'number of thread you want to use'
+
+Donation :
+
+XMR: 44z9Rx3bfx4DWoDpEptfGz8ZdqnhqWevdHGjWty44eVVUUN4wmgDgz2W9Nm7vDKF8KFzoE3skvETzJqRvRgmYxhy36F7M9M
+
+BTC: 38WyDg7x8WmYu8t9pntxTWL3WzFuTdzAJD
+
+ETH: 0xe42795f8d2162d43f326ba4a2bfe5300ba9a3987
